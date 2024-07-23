@@ -1,5 +1,5 @@
 torch
-xformers==0.0.23
+xformers>=0.0.24
 tiktoken
 wandb
 webdataset
